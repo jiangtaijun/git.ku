@@ -18,3 +18,4 @@ git branch - d name       :删除分支
 git remote                :查看远程库
 git remote -v             :查看远程库详细信息
 git push origin master    :上传本地库中master分支
+xxx
